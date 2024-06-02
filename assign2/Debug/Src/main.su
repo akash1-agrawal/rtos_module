@@ -1,0 +1,5 @@
+../Src/main.c:30:6:vLedPeriodicTask1	24	static
+../Src/main.c:41:6:vLedAperiodicTask2	16	static
+../Src/main.c:51:6:vLedPeriodicTask3	24	static
+../Src/main.c:62:6:VLedAperioadicTask4	16	static
+../Src/main.c:73:5:main	24	static
